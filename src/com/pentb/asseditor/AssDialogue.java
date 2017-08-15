@@ -140,7 +140,7 @@ public class AssDialogue {
                 marginR + "," +
                 marginV + "," +
                 effect + "," +
-                text + ",";
+                text;
     }
 
     /**
